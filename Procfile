@@ -1,1 +1,1 @@
-web: gunicorn e-max.wsgi
+web:gunicorn e-max.wsgi
